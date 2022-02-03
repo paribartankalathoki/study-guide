@@ -1,6 +1,10 @@
-### Here you will find the some details about Angular and its features.
+# Here you will find the some details about Angular and its features.
 
-> Basic things to know before learn Angular:
+
+### Basic things to know before learn Angular:
+
+---
+
 - Angular CLI
 
 - Node.js Basic
@@ -11,7 +15,9 @@
 
 - Bootstrap, HTML5, CSS or SCSS
 
-> Angular topics:
+### Basic Angular Topics:
+
+---
 
 - Installation and Configuration
 
