@@ -1,4 +1,4 @@
-# Here you will find the some details about Angular and its features.
+# Things to know before get started with Angular.
 
 
 ### Basic things to know before learn Angular:
