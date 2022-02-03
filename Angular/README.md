@@ -45,7 +45,7 @@
 
 - Services and HTTP
 
-    > Real API integration and rendering
+    > Real API integration and rendering (CRUD Operation)
 
 - Angular Lifecycle Hooks
 
